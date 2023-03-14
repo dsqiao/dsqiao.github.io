@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5fdb7fd8.css",
+    "main.js": "/static/js/main.b0b80a4d.js",
+    "static/js/787.2f5823b7.chunk.js": "/static/js/787.2f5823b7.chunk.js",
+    "static/media/bg.png": "/static/media/bg.9e83fce8b1143aca7292.png",
+    "static/media/用户态度.png": "/static/media/用户态度.e6bdf8c14325349c6e51.png",
+    "static/media/用户痛点.png": "/static/media/用户痛点.b04e75f34a709188813d.png",
+    "static/media/用户行为.png": "/static/media/用户行为.e4163045eda97283a95f.png",
+    "static/media/用户需求.png": "/static/media/用户需求.2e6dadaa96a99f6d213c.png",
+    "static/media/用户体验.png": "/static/media/用户体验.35db459be6dd11b1f46c.png",
+    "static/media/测试手段与报告解读.png": "/static/media/测试手段与报告解读.4bb887b6ab25712b2dae.png",
+    "static/media/帮助中心.png": "/static/media/帮助中心.5a112faa30b0eac8ffea.png",
+    "static/media/library.jpeg": "/static/media/library.aa8f341ff0d3087a3e07.jpeg",
+    "static/media/测试链接.png": "/static/media/测试链接.8afccfc77640763f4984.png",
+    "static/media/产品研究与用户研究.png": "/static/media/产品研究与用户研究.686973cc98011a5b2135.png",
+    "static/media/产品研究.png": "/static/media/产品研究.6914db4a6fd63fc6153d.png",
+    "static/media/用户研究.png": "/static/media/用户研究.b46b208cd041f3d7a327.png",
+    "index.html": "/index.html",
+    "main.5fdb7fd8.css.map": "/static/css/main.5fdb7fd8.css.map",
+    "main.b0b80a4d.js.map": "/static/js/main.b0b80a4d.js.map",
+    "787.2f5823b7.chunk.js.map": "/static/js/787.2f5823b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fdb7fd8.css",
+    "static/js/main.b0b80a4d.js"
+  ]
+}
