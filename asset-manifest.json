@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d469226.css",
-    "main.js": "/static/js/main.154a32ff.js",
+    "main.js": "/static/js/main.415028fc.js",
     "static/js/787.2f5823b7.chunk.js": "/static/js/787.2f5823b7.chunk.js",
     "static/media/bg.png": "/static/media/bg.9e83fce8b1143aca7292.png",
     "static/media/用户态度.png": "/static/media/用户态度.e6bdf8c14325349c6e51.png",
@@ -18,11 +18,11 @@
     "static/media/用户研究.png": "/static/media/用户研究.b46b208cd041f3d7a327.png",
     "index.html": "/index.html",
     "main.6d469226.css.map": "/static/css/main.6d469226.css.map",
-    "main.154a32ff.js.map": "/static/js/main.154a32ff.js.map",
+    "main.415028fc.js.map": "/static/js/main.415028fc.js.map",
     "787.2f5823b7.chunk.js.map": "/static/js/787.2f5823b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d469226.css",
-    "static/js/main.154a32ff.js"
+    "static/js/main.415028fc.js"
   ]
 }
