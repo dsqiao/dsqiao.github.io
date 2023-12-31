@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d22e98f5.css",
-    "main.js": "/static/js/main.d6d0fdc0.js",
+    "main.css": "/static/css/main.945c7d79.css",
+    "main.js": "/static/js/main.cd26401f.js",
     "static/js/787.2f5823b7.chunk.js": "/static/js/787.2f5823b7.chunk.js",
     "static/media/bg.png": "/static/media/bg.9e83fce8b1143aca7292.png",
     "static/media/用户态度.png": "/static/media/用户态度.e6bdf8c14325349c6e51.png",
@@ -17,12 +17,12 @@
     "static/media/产品研究.png": "/static/media/产品研究.6914db4a6fd63fc6153d.png",
     "static/media/用户研究.png": "/static/media/用户研究.b46b208cd041f3d7a327.png",
     "index.html": "/index.html",
-    "main.d22e98f5.css.map": "/static/css/main.d22e98f5.css.map",
-    "main.d6d0fdc0.js.map": "/static/js/main.d6d0fdc0.js.map",
+    "main.945c7d79.css.map": "/static/css/main.945c7d79.css.map",
+    "main.cd26401f.js.map": "/static/js/main.cd26401f.js.map",
     "787.2f5823b7.chunk.js.map": "/static/js/787.2f5823b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d22e98f5.css",
-    "static/js/main.d6d0fdc0.js"
+    "static/css/main.945c7d79.css",
+    "static/js/main.cd26401f.js"
   ]
 }
